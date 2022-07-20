@@ -17,7 +17,9 @@ Write a program that has the following console features:
 Welcome to the Password Generator
 
 How many letters would you like in your password? 12
+
 How many sumbols would you like? 2
+
 How many numbers would you like ? 2
 
 Here is your password: hKkC&OuKlFu2b%7G
